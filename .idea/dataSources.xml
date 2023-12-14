@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="spring_hiber@localhost" uuid="5564450f-ab58-40f3-ae0d-9a4f55ea97d7">
+    <data-source source="LOCAL" name="spring-hiber@localhost" uuid="dd0045e6-2a51-4faa-8b86-8c36db09a73a">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/spring_hiber</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost:3306/spring-hiber</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>

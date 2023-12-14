@@ -6,7 +6,6 @@ import java.util.Objects;
 @Entity
 @Table(name = "users")
 public class User {
-
    @Id
    @GeneratedValue(strategy = GenerationType.IDENTITY)
    @Column(name = "id")
@@ -70,8 +69,7 @@ public class User {
         if (this == o) return true;
         if (!(o instanceof User)) return false;
         User user = (User) o;
-        return Objects.equals(getId(), user.getId()) &&
-                Objects.equals(getName(), user.getName()) &&
+        return  Objects.equals(getName(), user.getName()) &&
                 Objects.equals(getSurName(), user.getSurName()) &&
                 Objects.equals(getEmail(), user.getEmail());
     }

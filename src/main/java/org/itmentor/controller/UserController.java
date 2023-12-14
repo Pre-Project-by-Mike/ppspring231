@@ -39,7 +39,7 @@ public class UserController {
     @DeleteMapping("/{id}")
     public String remove(@PathVariable("id") int id) {
         service.remove(id);
-        return "redirect:users";
+        return "redirect:/users";
     }
 
     @GetMapping("/{id}/edit")

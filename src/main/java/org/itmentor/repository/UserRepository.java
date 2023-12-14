@@ -1,4 +1,4 @@
-package org.itmentor.dao;
+package org.itmentor.repository;
 
 import org.itmentor.model.User;
 import org.springframework.stereotype.Repository;
@@ -8,10 +8,8 @@ import java.util.List;
 
 import static org.slf4j.LoggerFactory.getLogger;
 
-
 @Repository
 public class UserRepository {
-
    @PersistenceContext
    private javax.persistence.EntityManager em;
 

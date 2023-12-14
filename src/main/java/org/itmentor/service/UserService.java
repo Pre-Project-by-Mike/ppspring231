@@ -1,6 +1,6 @@
 package org.itmentor.service;
 
-import org.itmentor.dao.UserRepository;
+import org.itmentor.repository.UserRepository;
 import org.itmentor.model.User;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
