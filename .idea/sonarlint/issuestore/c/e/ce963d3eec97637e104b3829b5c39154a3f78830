@@ -1,9 +1,0 @@
-
-T
-java:S2629#"7Use the built-in formatting to construct this argument.(éÖ…§8ÈïŒ¢Æ1
-T
-java:S2629-"7Use the built-in formatting to construct this argument.(Âæª™8ÈïŒ¢Æ1
-^
-java:S3457#"AFormat specifiers should be used instead of string concatenation.(éÖ…§8ÜïŒ¢Æ1
-^
-java:S3457-"AFormat specifiers should be used instead of string concatenation.(Âæª™8ßïŒ¢Æ1

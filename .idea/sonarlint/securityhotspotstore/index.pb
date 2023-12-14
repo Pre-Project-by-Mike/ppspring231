@@ -11,8 +11,6 @@ Z
 *src/main/java/org/itmentor/model/User.java,c\d\cd28f56183bf85921717c445d2804a24c47ecb30
 `
 0src/main/java/org/itmentor/config/JpaConfig.java,0\3\03f2a91ce3e37bbd0ec6022a70dd25069221a92f
-b
-2src/main/java/org/itmentor/dao/UserRepository.java,c\e\ce963d3eec97637e104b3829b5c39154a3f78830
 c
 3src/main/java/org/itmentor/service/UserService.java,6\2\62518ab56569edfeb30bb37d371eb215de8e3e01
 S
